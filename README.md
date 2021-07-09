@@ -1,1 +1,1 @@
-# Intrusion-Detection-Syste-using-WEKA
+# Intrusion-Detection-System-using-WEKA
